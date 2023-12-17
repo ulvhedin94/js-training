@@ -4,7 +4,7 @@ function helloWorld() {
 }
 helloWorld();
 
-// function wtith a parameter
+// function with a parameter
 function hello(txt) {
   console.log(`2. Hello ${txt}!`);
 }
