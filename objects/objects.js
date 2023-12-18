@@ -29,4 +29,4 @@ let country = {
   },
 };
 
-console.log(country());
+console.log(country);
