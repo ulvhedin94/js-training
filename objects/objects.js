@@ -30,3 +30,5 @@ let country = {
 };
 
 console.log(country);
+
+// wszystko to iluzja
